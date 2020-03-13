@@ -12,7 +12,7 @@
 
 ## **TL;DR**
 
-Saturday night, 8pm, I was relaxed in my couch working in my new Hexo site and suddently the CTFtime site appeared in my mind. Quickly I found a running CTF and I registered in.\
+Saturday night, 8pm, I was relaxed in my couch working in my new Hexo site and suddenly the CTFtime site appeared in my mind. Quickly I found a running CTF and I registered in.\
 Due to this "time handicap" I only managed to solve 2 challenges, but I learn a bit more.
 
 The first team :trophy: was **#71** with 10195 points, 2nd was **pwndevils** and **NorseCode** _ex-aequo_ with 9688 points and the next team was **r3kapig** with 7457 points.
